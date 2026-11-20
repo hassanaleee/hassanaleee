@@ -1,7 +1,7 @@
 # Syed Hassan Ali Kazmi
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Syed Hassan Ali Kazmi — AI Engineering and Backend Systems" />
+  <img src="banner.png" width="100%" alt="Syed Hassan Ali Kazmi — AI Engineering and Backend Systems" />
 </p>
 
 <p align="center">
